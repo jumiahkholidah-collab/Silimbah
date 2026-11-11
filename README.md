@@ -7,5 +7,5 @@
 - Sri Rima Mulyati 2620101030
 - Telly Wardhani 2620101038
 
-**Tautan aplikasi**
+**Tautan Aplikasi**
 https://silimbah-simulasi-gamifikasi-pengelolaan-air-limb.ai.studio/
